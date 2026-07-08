@@ -3,6 +3,8 @@ FUB module
 
 https://www.kaggle.com/competitions/amia-public-challenge-2026/overview
 
+### Overleaf
+https://www.overleaf.com/8194827821fkqbgsbtjpnv#e1693d
 
 ### Tip from lecture
 - Use transformers by introducing a no-object class.
@@ -53,3 +55,8 @@ https://www.kaggle.com/competitions/amia-public-challenge-2026/overview
 ## Recommendations
 - YOLO fro object detecction
 - `albumentations` for augmentation
+
+
+## What was done
+- all the images are 1024*1024
+- BUG scaling func : swapped height and width 
